@@ -1,2 +1,2 @@
 # python_polit
-Домашние задания по курсу "Введение в python". 
+HWs for course "Introduction to python".
